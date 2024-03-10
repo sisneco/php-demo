@@ -11,7 +11,8 @@
               "oderwat.indent-rainbow",
               "ritwickdey.LiveServer",
               "formulahendry.auto-close-tag",
-              "bradlc.vscode-tailwindcss"
+              "bradlc.vscode-tailwindcss",
+              "xdebug.php-debug"
             ],
             "settings": {
               "editor.formatOnSave": true,
